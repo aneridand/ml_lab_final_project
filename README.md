@@ -5,6 +5,7 @@ I am Aneri Dand, studying Masters in Data Science at the University of San Franc
 
 ## Project Overview
 This project is part of the MSDS 699 course at the University of San Francisco.
+Here's the [Deepnote link](https://deepnote.com/project/ddc61a58-e71d-4541-81d3-ede4d6669fe3) to the project.
 
 ### Research Problem: 
 To predict whether a hotel booking will be cancelled using current and prior booking information.  
