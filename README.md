@@ -1,4 +1,4 @@
-# Machine Learning Lab Final Project
+# Churn prediction for hotels
 
 ## About me
 I am Aneri Dand, studying Masters in Data Science at the University of San Francisco. 
